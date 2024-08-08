@@ -1,0 +1,381 @@
+    1  df -kh
+    2  sudo du -xh | grep -P "G\t"
+    3  sudo du -xh
+    4  clear
+    5  ls
+    6  ls -lat
+    7  cd ..
+    8  ls
+    9  cd ..
+   10  ls
+   11  cd tmp
+   12  ls
+   13  clear
+   14  ls
+   15  cd
+   16  ls
+   17  ls -lat
+   18  df -kh
+   19  cd ../../media/
+   20  ls
+   21  sudo du -ah
+   22  cd ..
+   23  ls
+   24  sudo du -ah
+   25  clear
+   26  ls
+   27  cd mnt/
+   28  ls
+   29  sudo du -ah
+   30  cd ..
+   31  ls
+   32  cd dev
+   33  ls
+   34  cd root
+   35  ls
+   36  clear
+   37  df -kh
+   38  cd /dev/root
+   39  cd dev
+   40  clear
+   41  ls
+   42  sudo du -ah
+   43  clear
+   44  ls
+   45  cd ..
+   46  ls
+   47  clear
+   48  ls
+   49  cd home
+   50  sudo du -ah
+   51  cd ctr-user/
+   52  ls
+   53  sudo du -ah
+   54  sudo du -xh
+   55  sudo du -xh | grep -P "G/t"
+   56  sudo du -ah | grep -P "G/t"
+   57  sudo du -xh | grep -P "M/t"
+   58  sudo du -xh | grep -P "M"
+   59  sudo du -xh | grep "*M"
+   60  sudo du -xh | grep *M
+   61  sudo du -xh | grep "M\t"
+   62  sudo du -xh | grep "M	"
+   63  cd ..
+   64  ls
+   65  sudo du -xh | grep "M	"
+   66  cd ctr-user/
+   67  sudo du -xh | grep "M	"
+   68  cd ~
+   69  lds
+   70  ls
+   71  cd ..
+   72  ls
+   73  cd ..
+   74  ls
+   75  sudo du -xh | grep "M	"
+   76  cd
+   77  clear
+   78  df -kh
+   79  sudo dpkg -f install
+   80  cd Downloads/
+   81  ls
+   82  dpkg -i anydesk_6.3.0-1_armhf.deb
+   83  sudo dpkg -i anydesk_6.3.0-1_armhf.deb
+   84  sudo dpkg -f install
+   85  sudo apt-get -f install
+   86  df -kh
+   87  ssh 162.191.137.220
+   88  ssh servicer@162.191.137.220
+   89  ssh servicer@162.191.137.220
+   90  df -kh
+   91  df -Bm
+   92  df
+   93  df -k
+   94  df -h
+   95  du -h --max=l -x / 2>/dev/null | sort -h
+   96  sudo apt clean
+   97  df -kh
+   98  qdirstat
+   99  sudo raspi-config
+  100  sudo raspi-config --expand-rootfs
+  101  ls
+  102  df -kh
+  103  clear
+  104  sudo apt udpate
+  105  sudo apt update
+  106  ls
+  107  cd Downloads/
+  108  ls
+  109  sudo dkpg -i anydesk_6.3.0-1_armhf.deb
+  110  sudo dpkg -i anydesk_6.3.0-1_armhf.deb
+  111  sudo dpkg -f install
+  112  sudo dpkg -f --install
+  113  history | grep "dpkg"
+  114  sudo dpkg -f install
+  115  sudo apt-get -f install
+  116  sudo dpkg -i anydesk_6.3.0-1_armhf.deb
+  117  sudo apt-get -f install
+  118  sudo dpkg -i anydesk_6.3.0-1_armhf.deb
+  119  sudo apt-get clean
+  120  history | grep "sudo apt-get"
+  121  history | grep "sudo apt install"
+  122  sudo dpkg -i anydesk_6.3.0-1_armhf.deb
+  123  sudo apt-get -f install
+  124  sudo apt-get -f install
+  125  sudo dpkg -i anydesk_6.3.0-1_armhf.deb
+  126  systemctl daemon-reload
+  127  sudo anydesk
+  128  anydesk
+  129  sudo dpkg -i anydesk_6.3.0-1_armhf.deb
+  130  cd
+  131  ls
+  132  sudo anydesk
+  133  df -kh
+  134  sudo dpkg -r anydesk_6.3.0-1_armhf.deb
+  135  apt list --installed
+  136  apt list --installed | grep "any"
+  137  sudo dpkg -purge anydesk
+  138  sudo dpkg -r anydesk
+  139  sudo anydesk
+  140  clear
+  141  cd Downloads/
+  142  ls
+  143  rm -rf anydesk_6.3.0-1_armhf.deb
+  144  ls
+  145  sudo dpkg -i anydesk_6.3.0-1_armhf.deb
+  146  sudo systemctl daemon-reload
+  147  sudo anydesk
+  148  sudo apt-get install libpolkit-gobject-1-dev
+  149  sudo anydesk
+  150  sudo dpkg -purge anydesk
+  151  sudo dpkg -r anydesk
+  152  sudo dpkg -i anydesk_6.3.0-1_armhf.deb
+  153  sudo anydesk
+  154  sudo apt-get update
+  155  history | grep "install"
+  156  sudo apt-get -f install
+  157  sudo dpkg -i anydesk_6.3.0-1_armhf.deb
+  158  sudo systemctl daemon-reload
+  159  sudo anydesk
+  160  sudo apt-get install libpolkit-gobject-1-so.0
+  161  ls
+  162  rm anydesk_6.3.0-1_armhf.deb
+  163  sudo dpkg -r anydesk
+  164  ls
+  165  cd anydesk-6.3.0/
+  166  ls
+  167  ./anydesk
+  168  sudo ./anydesk
+  169  cd ..
+  170  ls
+  171  exit
+  172  sudo raspi-config
+  173  reboot
+  174  cd
+  175  ls -lat
+  176  vim .bashrc
+  177  vim .profile
+  178  vim .bashrc
+  179  cd
+  180  ls
+  181  cd Projects/
+  182  ls
+  183  cd V2X_Hub_Serial_Interface/
+  184  ls
+  185  cd V2X-Hub/
+  186  ls
+  187  cd data
+  188  cd
+  189  sudo apt update
+  190  sudo apt upgrade
+  191  https://github.com/usdot-fhwa-OPS/V2X-Hub
+  192  ls
+  193  cd Projects/
+  194  ls
+  195  cd V2X_Hub_Serial_Interface/
+  196  ls
+  197  git clone https://github.com/usdot-fhwa-OPS/V2X-Hub
+  198  cd V2X-Hub/configuration/
+  199  ls
+  200  cd ..
+  201  ls
+  202  vim README.md
+  203  ls
+  204  cd configuration/
+  205  ls
+  206  pwd
+  207  ls
+  208  clear
+  209  ls
+  210  clear
+  211  ls
+  212  sudo service mysql stop
+  213  sudo systemctl stop mysql
+  214  chmod +x initialization.sh
+  215  ls
+  216  cd Projects/
+  217  ls
+  218  cd V2X_Hub_Serial_Interface/
+  219  ls
+  220  cd V2X-Hub/
+  221  ls
+  222  clear
+  223  exit
+  224  clear
+  225  ls
+  226  ls -la
+  227  sudo ./initialization.sh
+  228  sudo docker ps
+  229  cd
+  230  ls
+  231  cd Downloads/
+  232  ls
+  233  sudo rm -rf anydesk-6.3.0
+  234  ls
+  235  rm -rf anydesk-6.3.0-armhf.tar.gz
+  236  ls
+  237  clear
+  238  ls
+  239  sudo dpkg -i anydesk_6.3.0-1_armhf.deb
+  240  sudo anydesk
+  241  anydesk
+  242  ps | aux
+  243  ps aux
+  244  ps aux | grep "anydesk"
+  245  sudo kill anydesk
+  246  sudo kill 36690
+  247  ls
+  248  cd Projects/
+  249  ls
+  250  cd V2X_Hub_Serial_Interface/
+  251  ls
+  252  vim README.md
+  253  echo $PS1
+  254  echo "\033[01;32m hello"
+  255  echo -e "[\033[01;32m] hello"
+  256  echo -e "\033[01;32m hello \033[00m"
+  257  echo -e "\033[01;32mhello\033[00m"
+  258  clear
+  259  echo -e "\033[01;32mhello\033[00m"
+  260  echo -e "\033[01mhello\033[00m"
+  261  echo -e "\033[01;32mhello\033[00m"
+  262  echo -e "\033[01;33mhello\033[00m"
+  263  echo -e "\033[01;102mhello\033[00m"
+  264  echo -e "\033[01;00mhello\033[00m"
+  265  echo -e "\033[01;01mhello\033[00m"
+  266  echo -e "\033[102;01mhello\033[00m"
+  267  echo -e "\102[01;33mhello\033[00m"
+  268  echo -e "\033[01;33mhello\033[00m"
+  269  echo -e "\033[102mhello\033[00m"
+  270  echo -e "\033[0;32mhello\033[00m"
+  271  echo -e "\033[0;102m=10hello\033[00m"
+  272  echo -e "\033[102m=10hello\033[00m"
+  273  echo -e "\033[0;32mhello\033[00m"
+  274  echo -e "\033[0;33mhello\033[00m"
+  275  echo -e "\033[0;31mhello\033[00m"
+  276  echo -e "\033[0;32mhello\033[00m"
+  277  echo -e "\033[0;92mhello\033[00m"
+  278  echo -e "\033[0;32mhello\033[00m"
+  279  echo -e "\033[0;32m=2hello\033[00m"
+  280  echo -e "\033[0;32mhello\033[00m"
+  281  echo -e "^[[32m=2hello\033[00m"
+  282  echo -e "\003[[32m=2hello\033[00m"
+  283  echo -e "\003]02;36hello\033[00m"
+  284  echo -e "\003]02;36\]hello\033[00m"
+  285  echo -e "\003[02;36hello\033[00m"
+  286  echo -e "\003[02;36mhello\033[00m"
+  287  echo -e "\003[02mhello\033[00m"
+  288  echo -e "\003[0;02mhello\033[00m"
+  289  echo -e "\003[01;32mhello\033[00m"
+  290  echo -e "\033[0;32m=2hello\033[00m"
+  291  echo -e "\033[0;32mhello\033[00m"
+  292  echo -e "\033[0;32m\]hello\033[00m"
+  293  echo -e "\033]00m\]hello\033[00m"
+  294  echo -e "\033]01m\]hello\033[00m"
+  295  echo -e "\033]32m\]hello\033[00m"
+  296  echo -e "\033[0;32mhello\033[00m"
+  297  echo -e "\033[00;32mhello\033[00m"
+  298  echo -e "\033[01;32mhello\033[00m"
+  299  echo -e "\033[02;32mhello\033[00m"
+  300  echo -e "\033[04;32mhello\033[00m"
+  301  echo -e "\033[05;32mhello\033[00m"
+  302  echo -e "\033[06;32mhello\033[00m"
+  303  echo -e "\033[01;32mhello\033[00m"
+  304  clear
+  305  echo -e "\033[01;32mhello\033[00m"
+  306  echo -e "\033[01;33mhello\033[00m"
+  307  echo -e "\035[01;33mhello\033[00m"
+  308  echo -e "\033[01;33mhello\033[00m"
+  309  echo -e "\033[01;31mhello\033[00m"
+  310  echo -e "\033[01;30mhello\033[00m"
+  311  echo -e "\033[01;29mhello\033[00m"
+  312  echo -e "\033[01;28mhello\033[00m"
+  313  echo -e "\033[01;27mhello\033[00m"
+  314  echo -e "\033[01;20mhello\033[00m"
+  315  echo -e "\033[01;32mhello\033[00m"
+  316  echo -e "\033[00;32mhello\033[00m"
+  317  echo -e "\033[10;32mhello\033[00m"
+  318  echo -e "\033[11;32mhello\033[00m"
+  319  echo -e "\033[02;32mhello\033[00m"
+  320  echo -e "\033[03;32mhello\033[00m"
+  321  echo -e "\033[00;32mhello\033[00m"
+  322  echo -e "\033[00;33mhello\033[00m"
+  323  echo -e "\033[00;34mhello\033[00m"
+  324  echo -e "\033[00;35mhello\033[00m"
+  325  echo -e "\033[00;34mhello\033[00m"
+  326  echo -e "\033[34mhello\033[00m"
+  327  echo -e "\033[01;34mhello\033[00m"
+  328  echo -e "\033[00;34mhello\033[00m"
+  329  echo -e "\033[00;00mhello\033[00m"
+  330  cd
+  331  clera
+  332  clear
+  333  vim ~/.bashrc
+  334  sudo docker ps
+  335  ls
+  336  ls
+  337  cd Projects/
+  338  ls
+  339  cd V2X_Hub_Serial_Interface/
+  340  ls
+  341  clear
+  342  vim README.md 
+  343  vim README.md
+  344  sudo apt install code
+  345  cd Projects/
+  346  ls
+  347  cd V2X_Hub_Serial_Interface/
+  348  ls
+  349  clear
+  350  ls
+  351  cd V2X-Hub/
+  352  ls
+  353  cd configuration/
+  354  ls
+  355  clear
+  356  ls
+  357  sudo docker ps
+  358  cd ../..
+  359  ls
+  360  clear
+  361  ls
+  362  sudo raspi-config
+  363  ifconfig
+  364  ipconfig
+  365  ifconfig
+  366  ls
+  367  cd Projects/
+  368  ls
+  369  cd V2X_Hub_Serial_Interface/
+  370  ls
+  371  history
+  372  ls
+  373  git init
+  374  ls -lat
+  375  git add .
+  376  git status
+  377  git rm --cached V2X-Hub/
+  378  git rm -f --cached V2X-Hub/
+  379  git status
+  380  ls
+  381  history > setup_cmd.txt
